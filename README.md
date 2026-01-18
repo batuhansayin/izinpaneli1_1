@@ -8,4 +8,4 @@ System.Security.AccessControl
 System.Runtime.CompilerServices.Unsafe
 System.Threading.Tasks.Extensions
 System.ValueTuple 
-yğklendikten sonra izinpaneli1_1.sln adlı dosya açılıp program başlatılır.
+yüklendikten sonra izinpaneli1_1.sln adlı dosya açılıp program başlatılır.
